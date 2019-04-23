@@ -1,0 +1,44 @@
+body{
+
+}
+p{
+    font-size: 50px;
+    text-align: center;
+    font-family: 隶书;
+}
+#container{
+    width: 1000px;height: 500px;
+    background-color: rgb(213, 243, 142);
+    margin: auto;
+    font-size: 50px;
+}
+.one{
+    width: 1000px;height: 500px;
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    font-family: 魏书;
+}
+.none{
+    display: none;
+}
+.active{
+    list-style:none;
+    width: 100px;height: 10px;
+    background-color: #ccc;
+    display: inline-block;
+    position: relative;top: 475px;
+    left: 187px;
+} 
+
+.hide{
+    background-color: red;
+    list-style:none;
+    width: 100px;height: 10px;
+    display: inline-block;
+    position: relative;top: 475px;
+    left: 187px;
+}
+img{
+    width: 1000px;height: 500px;
+}
